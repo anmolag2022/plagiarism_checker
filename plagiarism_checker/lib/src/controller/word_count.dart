@@ -11,7 +11,7 @@ class WordCounterController extends GetxController {
   final int maxWords = 500;
 
   // URL for Flask backend
-  final String apiUrl = 'https://45f8379c-9f22-4cad-bc34-92edb34a3756-00-30kbd76txwoeg.sisko.replit.dev';
+  final String apiUrl = 'https://d64b181d-26b3-488f-90cb-8ce323b521a8-00-1vt8now6gypr6.pike.replit.dev';
 
   void updateWordCount() {
     // Split text by spaces and count non-empty strings
