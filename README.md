@@ -7,6 +7,10 @@ A **Flutter-based plagiarism detection application** that identifies literal tex
 The backend is powered by a **Flask (Python) API**, enabling fast text analysis and seamless integration with the app.
 The app comes with **Firebase authentication**, **dark/light mode support**, and a **modern clean UI**.
 
+<img width="1919" height="939" alt="image" src="https://github.com/user-attachments/assets/4f48edd3-323f-4972-9688-b65e489cb7c8" />
+<img width="1907" height="800" alt="image" src="https://github.com/user-attachments/assets/ad6b7918-5379-4526-b06d-8b3b2ac24487" />
+
+
 ---
 
 ## 🚀 Features
